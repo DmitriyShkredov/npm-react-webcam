@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/npm-react-webcam/static/css/main.3c450c20.css",
+    "main.js": "/npm-react-webcam/static/js/main.9608a3ce.js",
+    "static/js/787.b72af716.chunk.js": "/npm-react-webcam/static/js/787.b72af716.chunk.js",
+    "static/media/facingIcon.svg": "/npm-react-webcam/static/media/facingIcon.c09d8e138e97411b578b0e4cf93f5b41.svg",
+    "static/media/photoIcon.svg": "/npm-react-webcam/static/media/photoIcon.b3bf3b2c1de8b3c52b2c61e62bf41471.svg",
+    "index.html": "/npm-react-webcam/index.html",
+    "main.3c450c20.css.map": "/npm-react-webcam/static/css/main.3c450c20.css.map",
+    "main.9608a3ce.js.map": "/npm-react-webcam/static/js/main.9608a3ce.js.map",
+    "787.b72af716.chunk.js.map": "/npm-react-webcam/static/js/787.b72af716.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c450c20.css",
+    "static/js/main.9608a3ce.js"
+  ]
+}
